@@ -3,4 +3,4 @@
 
 ローカルリポで変更
 
-conflict-remote上で変更
+rebase-practiceブランチで変更
